@@ -1,34 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
- 
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <title> Five Questions </title>
-  </head>
-  <body>
-    <form>
-      Name:<br>
-      <input type="text">
-      <br>
-      Orginisation:
-      <br>
-      <select name="Orginisation">
-        <option value="Volunteer Now">Volunteer Now</option>
-        <option value="Include Youth">Include Youth</option>
-      </select>
-      <br>Location:<br>
-      <input type="text">
-      <br>Best Memory:<br>
-      <textarea name="message" rows="10" cols="30">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <title> Five Questions </title>
+</head>
+<body>
+  <div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+  <form>
+    Name:<br>
+    <input type="text" class="form-control" id="ExampleName" placeholder="Name">
+    <br>
+    Orginisation:
+    <br>
+    <select name="Orginisation" class="form-control" id="ExampleOrginisation" placeholder="Name">>
+      <option value="Volunteer Now">Volunteer Now</option>
+      <option value="Include Youth">Include Youth</option>
+    </select>
+    <br>Location:<br>
+    <input type="text" class="form-control" id="ExampleLocation" placeholder="Name">>
+    <br>Best Memory:<br>
+    <textarea class="form-control" rows="10" cols="30">
     </textarea>
     <br>Achievement:<br>
-    <textarea name="message" rows="10" cols="30">
-
-  </textarea>
-        <input type="submit" value="Submit">
-    </form>
-  </body>
+    <textarea class="form-control" rows="10" cols="30">
+    </textarea>
+    <input class="btn btn-default" type="submit" value="Submit">
+  </form>
+</div>
+<div class="col-md-4"></div>
+</body>
 </html>
