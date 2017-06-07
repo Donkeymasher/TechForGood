@@ -1,9 +1,10 @@
 ---
-# Five Questions <h3>Telling your story your way</h3>
+# Five Questions
+### Telling your story your way
 
 ---
 
-The brief
+**The brief**
 
 1. Increase the confidence of young people in their ability to shape the events that 	affect them
 
