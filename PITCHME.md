@@ -17,6 +17,7 @@
 ---
 
 # The solution
-[click me!](file:///C:/Users/David/Documents/Hackathon/TechForGood/index.html)
 
 ---
+
+# Organisation's perspective
