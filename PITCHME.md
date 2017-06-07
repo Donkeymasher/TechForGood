@@ -3,7 +3,7 @@
 
 ---
 
-**The brief**
+The brief
 new ideas
 1. Increase the confidence of young people in their ability to shape the events that 	affect them
 2. promote a culture of lifelong enjoyment and success in sport among young people
