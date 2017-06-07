@@ -20,4 +20,14 @@
 
 ---
 
+# Market
+
+---
+
 # Organisation's perspective
+
+---
+
+# Volunteer's perspective
+
+---
